@@ -1,5 +1,12 @@
 # 📖 Marginalia — Chat with your PDF
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg)](https://streamlit.io/)
+[![LangChain](https://img.shields.io/badge/Built%20with-LangChain-1C3C3C.svg)](https://www.langchain.com/)
+[![ChromaDB](https://img.shields.io/badge/Vector%20Store-ChromaDB-8A2BE2.svg)](https://www.trychroma.com/)
+[![Mistral AI](https://img.shields.io/badge/LLM-Mistral%20AI-FF7000.svg)](https://mistral.ai/)
+
 A Retrieval-Augmented Generation (RAG) app that turns any PDF into a conversation. Upload a document, and ask it questions directly — every answer is grounded only in what's actually written on the page, with the source passage shown alongside the reply.
 
 Built with **Python**, **Streamlit**, **LangChain**, **ChromaDB**, and **Mistral AI**.
@@ -12,6 +19,7 @@ Built with **Python**, **Streamlit**, **LangChain**, **ChromaDB**, and **Mistral
 |---|---|
 | ![Marginalia home screen](docs/screenshot-home.png) | ![Marginalia chat view](docs/screenshot-chat.png) |
 
+> Add your own screenshots to a `docs/` folder in the repo and update the file names above to match. See [Adding screenshots](#-adding-screenshots) below for exact steps.
 
 ---
 
