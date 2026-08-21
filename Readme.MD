@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![RAG](https://img.shields.io/badge/Architecture-RAG-2E8B57.svg)](#-how-it-works)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/Built%20with-LangChain-1C3C3C.svg)](https://www.langchain.com/)
 [![ChromaDB](https://img.shields.io/badge/Vector%20Store-ChromaDB-8A2BE2.svg)](https://www.trychroma.com/)
