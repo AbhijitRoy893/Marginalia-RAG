@@ -20,7 +20,6 @@ Built with **Python**, **Streamlit**, **LangChain**, **ChromaDB**, and **Mistral
 |---|---|
 | ![Marginalia home screen](docs/screenshot-home.png) | ![Marginalia chat view](docs/screenshot-chat.png) |
 
-> Add your own screenshots to a `docs/` folder in the repo and update the file names above to match. See [Adding screenshots](#-adding-screenshots) below for exact steps.
 
 ---
 
