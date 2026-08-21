@@ -12,7 +12,6 @@ Built with **Python**, **Streamlit**, **LangChain**, **ChromaDB**, and **Mistral
 |---|---|
 | ![Marginalia home screen](docs/screenshot-home.png) | ![Marginalia chat view](docs/screenshot-chat.png) |
 
-> Add your own screenshots to a `docs/` folder in the repo and update the file names above to match. See [Adding screenshots](#-adding-screenshots) below for exact steps.
 
 ---
 
@@ -144,7 +143,7 @@ Useful for quick testing or scripting outside the browser.
 
 ## 📄 License
 
-No license file is currently included — add one (MIT is a common choice for projects like this) if you want others to reuse this code.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
